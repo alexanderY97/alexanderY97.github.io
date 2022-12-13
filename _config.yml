@@ -17,7 +17,7 @@ title: "Hello. I'm Alexander Yoon Shim."
 email: 'alex_shim@naver.com'
 description: "I'm a NYU student and creating useful things for the web."
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://jamigibbs.github.io/phantom" # the base hostname & protocol for your site, e.g. https://example.com
+url: "" # the base hostname & protocol for your site, e.g. https://example.com
 Naver_username: 'alex_shim'
 Github_username: 'alexandery97'
 Kakaotalk_username: 'alex_sh'
