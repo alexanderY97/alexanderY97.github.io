@@ -6,15 +6,17 @@ permalink: /about/
 
 ## Introduce URL
 
-[Link to another page](https://yale.sen.es.kr/).
+Elemtentary School : [Link to another page](https://yale.sen.es.kr/).
 
-[Link to another page](http://www.seojeong.ms.kr/).
+Middle School : [Link to another page](http://www.seojeong.ms.kr/).
 
-[Link to another page](https://westernchristianschool.org/).
+High School : [Link to another page](https://westernchristianschool.org/).
 
-[Link to another page](https://www.chadwickinternational.org/).
+High School : [Link to another page](https://www.chadwickinternational.org/).
 
-[Link to another page](https://www.stonybrook.edu/).
+University : [Link to another page](https://www.ugent.be/en).
+
+University : [Link to another page](https://www.stonybrook.edu/).
 
 # Resume
 
